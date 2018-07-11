@@ -12,5 +12,11 @@
   "repository": "https://github.com/brimtown/gatsby-plugin-pointer-events",
   "author": "Tim Brown <brown.tim.lee@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "peerDependencies": {
+    "gatsby": "^1.0.1"
+  },
+  "dependencies": {
+    "pepjs": "^0.4.3"
+  }
 }
