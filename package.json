@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-plugin-pointer-events",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to add Pointer Events Polyfill (PEP)",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "pepjs",
+    "pointer-events"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/brimtown/gatsby-plugin-pointer-events",
+  "author": "Tim Brown <brown.tim.lee@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
